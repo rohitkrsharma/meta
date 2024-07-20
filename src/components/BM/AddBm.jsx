@@ -11,7 +11,7 @@ const AddBM = ({ onBack, showBackButton }) => {
               className='flex items-center gap-1 bg-customPurple rounded-md px-4 py-2 text-white hover:bg-hcolor'
               onClick={onBack}
             >
-              <FaArrowLeft /> Back
+              <FaArrowLeft />Back
             </button>
           </div>
         )}
