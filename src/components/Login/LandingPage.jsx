@@ -13,7 +13,7 @@ const LandingPage = () => {
       <div className='min-h-screen flex items-center justify-center bg-purple-400 font-poppins'>
         <div
           className="bg-cover rounded-3xl flex items-center justify-center bg-center px-5 md:py-10 md:px-10"
-          style={{ backgroundImage: `url(./images/background_image.jpg)` }}
+          style={{ backgroundImage: `url(https://metaadsapp.s3.ap-south-1.amazonaws.com/background_Image.jpg)` }}
         >
           <div className='space-y-14'>
             <div className='md:flex text-white font-poppins gap-40'>
