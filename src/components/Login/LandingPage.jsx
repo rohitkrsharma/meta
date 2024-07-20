@@ -26,7 +26,7 @@ const LandingPage = () => {
                 <div className="w-16 h-1 md:w-32 md:h-2 bg-blue-600 rounded-md mx-auto md:mx-0"></div>
               </div>
               <div className='rounded-xl'>
-                <img src='./images/Banner_image.jpg' alt='banner' className='rounded-xl w-96' />
+                <img src='./images/Banner_image.png' alt='banner' className='rounded-xl w-96' />
               </div>
             </div>
             <div className="flex  items-center">
